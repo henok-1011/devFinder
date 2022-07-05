@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.theme {
+  cursor: pointer;
+}
+
+.theme span {
+  padding: 0 0 0 20px;
+}
